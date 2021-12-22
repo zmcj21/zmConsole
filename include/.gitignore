@@ -1,0 +1,5 @@
+# For linux
+zmConsole
+
+# Ignore Micro log file:
+log.txt
