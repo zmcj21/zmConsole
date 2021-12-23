@@ -7,7 +7,7 @@ using namespace zmConsole;
 
 int main()
 {
-	Console::Write("hello zmConsole!");
-	Console::Read();
+    Console::Write("hello zmConsole!");
+    Console::Read();
     return 0;
 }
