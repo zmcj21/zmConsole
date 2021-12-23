@@ -1,11 +1,16 @@
 # windows_console_doc
 
-Microsoft:
+### Links:
+[Windows Console Documentation](https://docs.microsoft.com/en-us/windows/console/)
 
-Download PDF retiring
+[Windows Command Line](https://devblogs.microsoft.com/commandline/)
 
-The Download PDF feature will be removed on January 3, 2022. Your feedback will help us with future plans for offline content.
+### Microsoft:
 
-My solution:
+    Download PDF retiring
 
-download .pdf and save it on github.
+    The Download PDF feature will be removed on January 3, 2022. Your feedback will help us with future plans for offline content.
+
+### My solution:
+
+    Download .pdf and save it on github.
